@@ -18,6 +18,6 @@ pytorch will generate the command to use in anaconda command and prompt. for me 
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 Installation should finish fairly quick. and you can now see test 
-- If pytorch is installed by trying: import torch
+- If pytorch is installed: import torch
 - If pytorch is installed with cuda: torch.cuda.is_available()
 
